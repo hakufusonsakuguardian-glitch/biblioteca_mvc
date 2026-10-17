@@ -1,0 +1,9 @@
+# Query: angelsifuente
+# ContextLines: 1
+
+1 result - 1 file
+
+BD\biblioteca_mvc.sql:
+  55  INSERT INTO `configuracion` (`id`, `nombre`, `telefono`, `direccion`, `correo`) VALUES
+  56: (1, 'Sistema de Biblioteca', '903212486', 'Huancayo - Peru', 'davidlopeznavarro9@gmail.com');
+  57  

@@ -1,0 +1,23 @@
+
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+
+# Copias de bases de datos
+*.sql
+
+# Archivos temporales de Windows y otros sistemas
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales y registros
+*.log
+*.tmp
+
+# Dependencias de Composer, si se utilizan
+/vendor/
+
+# Configuración local de Visual Studio Code
+.vscode/
